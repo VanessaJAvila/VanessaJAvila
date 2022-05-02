@@ -1,6 +1,5 @@
 <h1>Hi there, i´m Vanessa Ávila 👋<h1>
 
 
-- 🌱 Currently learning HTML, CSS and Javascript
+- 🌱 Currently learning HTML, CSS & Javascript
 
--->
