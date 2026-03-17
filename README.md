@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=07C983&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Vanessa+%C3%81vila+%F0%9F%91%8B;SoftwareDeveloper+%7C+AI+Enthusiast;Building+the+future%2C+one+commit+at+a+time.;Let's+create+something+extraordinary." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=07C983&center=true&vCenter=true&width=620&lines=Hey!+I+am+Vanessa+Avila;Software+Developer+%7C+AI+Enthusiast;Building+the+future%2C+one+commit+at+a+time.;Let%27s+create+something+extraordinary." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,80 +24,70 @@ const vanessa = {
   askMeAbout: ["JavaScript", "Node.js", "React", "AI-powered products"],
   funFact:    "I debug with coffee ☕ and ship with curiosity 🚀"
 };
+` ` `
+
+---
+---
+
+## 🌍 My Mission Beyond Code
+
+<div align="center">
+
+*"Technology is most powerful when it serves the planet, not just the people on it."*
+
+</div>
+
+I believe the most important problems of our generation are **not technical** — they are ecological.  
+But the solutions **will be**.
+
+As a Software Developer and AI practitioner, I see it as a responsibility — not just an opportunity —  
+to direct skills toward what truly matters:
+
+<br/>
+
+| 🌱 Area | 💡 How Software & AI Can Help |
+|:---|:---|
+| **Climate & Carbon** | Predictive models, emissions monitoring, smart energy grids |
+| **Biodiversity & Ecosystems** | Species tracking, deforestation detection via satellite + ML |
+| **Water & Soil** | IoT sensors + data pipelines for resource management |
+| **Circular Economy** | AI-optimised supply chains that eliminate waste |
+| **Sustainable Cities** | Smart infrastructure, mobility systems, green urban planning |
+
+<br/>
+```javascript
+const myPurpose = {
+  belief:   "Code can be a force for ecological regeneration",
+  goal:     "Build AI tools that help humans live within planetary boundaries",
+  values:   ["Transparency", "Systems Thinking", "Long-term Impact"],
+  seeking:  [
+    "Green tech startups & NGOs",
+    "Climate AI research initiatives",
+    "Open-source sustainability projects"
+  ],
+  openTo:   "Collaborations that put the planet first 🌿"
+};
+` ` `
+
+<br/>
+
+<div align="center">
+
+### 🤝 If you are building for the planet — let's talk.
+
+Whether you're working on **climate tech**, **conservation AI**, **clean energy systems**,  
+or any project where **data and intelligence serve ecosystems** —  
+I want to be part of that work.
+
+<br/>
+
+> 🌿 *I am actively preparing myself to contribute to projects at the intersection of*  
+> **Artificial Intelligence × Environmental Science × Human Responsibility**
+
+<br/>
+
+[![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collaborate-Climate%20%26%20Sustainability%20Tech-%2307C983?style=for-the-badge&logoColor=white)](mailto:vanessa.3bl@gmail.com)
+[![Planet First](https://img.shields.io/badge/Values-Planet%20First-%23228B22?style=for-the-badge&logoColor=white)]()
+[![AI for Good](https://img.shields.io/badge/AI%20for-Good-%2300897B?style=for-the-badge&logoColor=white)]()
+
+</div>
 ```
-
----
-
-## 🧠 AI & Tech Focus
-
-<div align="center">
-
-| 🔍 Exploring | 🛠 Building With | 🎯 Goal |
-|:---:|:---:|:---:|
-| LLM APIs & Prompt Engineering | JavaScript + Node.js | AI-native web products |
-| RAG & Vector Search | React + REST APIs | Seamless human-AI interfaces |
-| AI Agents & Automation | MySQL + Cloud Tools | Impactful, real-world solutions |
-
-</div>
-
----
-
-## 🛠 Languages, Frameworks & Tools
-
-<div align="center">
-
-### Core Stack
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,bootstrap,mysql&theme=dark" />
-
-### AI & Emerging Tools
-<img src="https://skillicons.dev/icons?i=python,docker,git,vscode,github,linux&theme=dark" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaJAvila&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaJAvila&layout=compact&theme=vue-dark&border_radius=10"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=VanessaJAvila&theme=vue-dark&border_radius=10)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🚀 What I'm Working On
-
-- 🔭 Integrating **AI assistants** into full-stack web applications
-- 🌱 Deepening expertise in **LLM orchestration** and **agentic workflows**
-- 💡 Experimenting with **OpenAI**, **Anthropic Claude** & **open-source models**
-- 🤝 Open to collaborating on **AI-powered products** and **developer tools**
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vanessa%20Ávila-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-d-avila/)
-[![Gmail](https://img.shields.io/badge/Gmail-vanessa.3bl%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanessa.3bl@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-VanessaA%238969-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VanessaA#8969)
-
-</div>
-
----
-
-<div align="center">
-
-*⚡ Building intelligent experiences, one line of JavaScript at a time.*
-
-</div>
- 
- 
