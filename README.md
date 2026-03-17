@@ -6,7 +6,9 @@
 
 <br/>
 
-> *"The best way to predict the future is to build it."*
+<em>"The best way to predict the future is to build it."</em>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=VanessaJAvila&label=Profile+Views&color=07C983&style=flat" alt="profile views" />
 
@@ -24,23 +26,22 @@ const vanessa = {
   askMeAbout: ["JavaScript", "Node.js", "React", "AI-powered products"],
   funFact:    "I debug with coffee ☕ and ship with curiosity 🚀"
 };
-` ` `
+```
 
----
 ---
 
 ## 🌍 My Mission Beyond Code
 
 <div align="center">
-
-*"Technology is most powerful when it serves the planet, not just the people on it."*
-
+<em>"Technology is most powerful when it serves the planet, not just the people on it."</em>
 </div>
 
-I believe the most important problems of our generation are **not technical** — they are ecological.  
+<br/>
+
+I believe the most important problems of our generation are **not technical** — they are ecological.
 But the solutions **will be**.
 
-As a Software Developer and AI practitioner, I see it as a responsibility — not just an opportunity —  
+As a Software Developer and AI practitioner, I see it as a responsibility — not just an opportunity —
 to direct skills toward what truly matters:
 
 <br/>
@@ -66,28 +67,30 @@ const myPurpose = {
   ],
   openTo:   "Collaborations that put the planet first 🌿"
 };
-` ` `
+```
 
 <br/>
 
 <div align="center">
 
-### 🤝 If you are building for the planet — let's talk.
+<h3>🤝 If you are building for the planet — let's talk.</h3>
 
-Whether you're working on **climate tech**, **conservation AI**, **clean energy systems**,  
-or any project where **data and intelligence serve ecosystems** —  
+Whether you're working on <strong>climate tech</strong>, <strong>conservation AI</strong>, <strong>clean energy systems</strong>,
+or any project where <strong>data and intelligence serve ecosystems</strong> —
 I want to be part of that work.
 
 <br/>
 
-> 🌿 *I am actively preparing myself to contribute to projects at the intersection of*  
-> **Artificial Intelligence × Environmental Science × Human Responsibility**
-
+<em>🌿 I am actively preparing myself to contribute to projects at the intersection of</em>
 <br/>
+<strong>Artificial Intelligence × Environmental Science × Human Responsibility</strong>
 
-[![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collaborate-Climate%20%26%20Sustainability%20Tech-%2307C983?style=for-the-badge&logoColor=white)](mailto:vanessa.3bl@gmail.com)
-[![Planet First](https://img.shields.io/badge/Values-Planet%20First-%23228B22?style=for-the-badge&logoColor=white)]()
-[![AI for Good](https://img.shields.io/badge/AI%20for-Good-%2300897B?style=for-the-badge&logoColor=white)]()
+<br/><br/>
+
+<a href="mailto:vanessa.3bl@gmail.com">
+  <img src="https://img.shields.io/badge/Open%20to%20Collaborate-Climate%20%26%20Sustainability%20Tech-%2307C983?style=for-the-badge&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Values-Planet%20First-%23228B22?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20for-Good-%2300897B?style=for-the-badge&logoColor=white"/>
 
 </div>
-```
